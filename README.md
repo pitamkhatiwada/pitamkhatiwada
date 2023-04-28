@@ -1,15 +1,16 @@
 ![MasterHead](https://media.licdn.com/dms/image/D5616AQERbN73ub6BqA/profile-displaybackgroundimage-shrink_350_1400/0/1682572120436?e=1687996800&v=beta&t=UQhyJvJuZIh9luf1RriUq7deXyCYp5duexll_peex-k)
 <h1 align="center">Hi 👋, I'm Pitam khatiwada</h1>
-<h3 align="left">Im a Software Developer with 4-year Computer Science degree and 1+ years of experience. As a dedicated problem solver, I display an expert skill in Flutter and supporting languages/libraries/frameworks that solve real-world problems through code.</h3>
+
 
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/YfEzujpYttqN49qnxRHEfFjzGsA2Cg8dDjrmr4rRfDc/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzEyOTI2/Nzcvc2NyZWVuc2hv/dHMvNjEzOTE2Ny9h/dmVudG8uZ2lm.gif">
-
+<h3 align="left">Im a Software Developer with 4-year Computer Science degree and 1+ years of experience. As a dedicated problem solver, I display an expert skill in Flutter and supporting languages/libraries/frameworks that solve real-world problems through code.</h3>
 
 - 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **Flutter , Dart, Firebase**
 
 - 📫 How to reach me **khatiwadapitam@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
