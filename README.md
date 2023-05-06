@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D5616AQERbN73ub6BqA/profile-displaybackgroundimage-shrink_350_1400/0/1682572120436?e=1687996800&v=beta&t=UQhyJvJuZIh9luf1RriUq7deXyCYp5duexll_peex-k)
+
 <h1 align="center">Hi 👋, I'm Pitam khatiwada</h1>
 
 
