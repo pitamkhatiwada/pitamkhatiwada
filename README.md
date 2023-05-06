@@ -3,9 +3,9 @@
 
 
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/YfEzujpYttqN49qnxRHEfFjzGsA2Cg8dDjrmr4rRfDc/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzEyOTI2/Nzcvc2NyZWVuc2hv/dHMvNjEzOTE2Ny9h/dmVudG8uZ2lm.gif">
-<h3 align="left">Im a Software Developer with 4-year Computer Science degree and 1+ years of experience. As a dedicated problem solver, I display an expert skill in Flutter and supporting languages/libraries/frameworks that solve real-world problems through code.</h3>
+<h3 align="left">Flutter developer with 1 years + of experience and a commitment to continuous learning and improvement.</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Flutter , Dart, Firebase**
 
