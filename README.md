@@ -3,9 +3,9 @@
 
 
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/YfEzujpYttqN49qnxRHEfFjzGsA2Cg8dDjrmr4rRfDc/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzEyOTI2/Nzcvc2NyZWVuc2hv/dHMvNjEzOTE2Ny9h/dmVudG8uZ2lm.gif">
-<h3 align="left">Flutter developer with 1 years + of experience and a commitment to continuous learning and improvement.</h3>
+<h3 align="left">Software developer with 4 years + of experience and a commitment to continuous learning and improvement.</h3>
 
-- 💬 Ask me about **Flutter, Dart, Firebase**
+- 💬 Ask me about **Flutter, Dart, Firebase, worldpress,php**
 
 - 📫 How to reach me **khatiwadapitam@gmail.com**
 
